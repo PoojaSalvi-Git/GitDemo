@@ -8,6 +8,16 @@ public class AppiumTest {
 	public void AppiumTest1()
 	{
 		System.out.println("AppiumTest");
-		
+		System.out.println("IOSApps");
+		System.out.println("IOSApps");
 	}
+	
+	@Test
+	public void AppiumTest2()
+	{
+		System.out.println("AppiumTest");
+		System.out.println("IOSApps");
+		System.out.println("IOSApps");
+	}
+	
 }

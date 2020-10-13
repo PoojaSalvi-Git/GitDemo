@@ -11,5 +11,17 @@ public class RestAPITest {
 		
 		System.out.println("PostJira2");
 		System.out.println("PostJira3");
+	
+	}
+	
+
+	@Test
+	public void RestAPItesting2()
+	{
+		System.out.println("Test2");
+		
+		System.out.println("PostJira2");
+		System.out.println("PostJira3");
+	
 	}
 }
